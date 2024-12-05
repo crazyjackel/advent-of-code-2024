@@ -3,7 +3,7 @@
 // Get the sum of consecutive smallests from that file
 
 // Improvement Notes:
-// Algo may be made faster by not doing a vec sort through an early out.
+// Algo may be made faster by not doing a vec sort (or minimizing size of sorts) through an early out.
 // Let's image the following datum:
 // [1,2,3,4,5,6] & [2,3,2,2,5,6]
 // If we were to break the data up into groups of 2 and save the highest and lowest number of both:
@@ -12,6 +12,8 @@
 // 3: [[5,6],[5,6]] -> difference: 0, bounds: (5-6)
 // We would recognize that there is no way for group 1 or 2 to interfere with the score of group 3.
 // By then recombining group 1 and 2 together and then adding it with 3, we could get the difference accurately.
+// Would require an additional 2 i32 for bounds and extra time used for checking min and maxes as difference scores are processed.
+// Much improved best case, makes worse case bad.
 
 use std::{fs::File, io::{self, BufRead}};
 
