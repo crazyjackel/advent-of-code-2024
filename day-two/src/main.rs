@@ -150,11 +150,11 @@ fn is_safe_dampened_tests() {
     let vecs6 = vec![1, 3, 6, 7, 9];
     let vecs7 = vec![3, 4, 2, 1, 0];
 
-    assert_eq!(is_safe_dampened(&vecs1), true);
-    assert_eq!(is_safe_dampened(&vecs2), false);
-    assert_eq!(is_safe_dampened(&vecs3), false);
-    assert_eq!(is_safe_dampened(&vecs4), true);
-    assert_eq!(is_safe_dampened(&vecs5), true);
-    assert_eq!(is_safe_dampened(&vecs6), true);
-    assert_eq!(is_safe_dampened(&vecs7), true);
+    assert_eq!(safe_with_removal(&vecs1), true);
+    assert_eq!(safe_with_removal(&vecs2), false);
+    assert_eq!(safe_with_removal(&vecs3), false);
+    assert_eq!(safe_with_removal(&vecs4), true);
+    assert_eq!(safe_with_removal(&vecs5), true);
+    assert_eq!(safe_with_removal(&vecs6), true);
+    assert_eq!(safe_with_removal(&vecs7), true);
 }
