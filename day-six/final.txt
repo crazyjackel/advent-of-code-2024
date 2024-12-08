@@ -1,0 +1,132 @@
+          #    #          #      #                       #   #                                          #                         
+                   #         #      #     #                       #                      #   #                                    
+           #  #                                                    #                          #                #      #           
+     # #      NEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE#          #                #                  
+   #          N                               #                           #       S            #  #         #                     
+           # #N  #          #               #                  #             #    S                              #            #   
+              N             NEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEXEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE#  #      # 
+              N     #       N  #         #     #       #    #                     S                  #  #          # S         #  
+              N     #      #N                  NEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE#  S                  NEEEEEEEEEEEEEEEXEEEEEE#     
+              N             N                  N  #                         # S   S                  N  #            S  #  S      
+#    #    #   N             N#         #  #    N              #         #    #S   S# #               N               S     S  #   
+     NEEEEEEEEXEEEEEEEEEEEEEXEEEEEEEEEEEEEE#   N                        NEEEEEXEEEXEEEEEEEEEEEEEEEEEEXEEEE#          S     S      
+#    N        N             N             S    N                        N     S   S             #    N   S      #    S     S##    
+   # N    #   N         #   N           # S   #WWWWWWWWWWWWWWWWWWWWWWWWWXWWWWWXWWWS    # #        #  N   S    #   #  S     S      
+#    N   #    N #       NEEEXEEEEEEEEEEEEEXEE#                       #  N     S   #                  N   S    #      S     S      
+     N      # N         N   N             S S                #          N     S                      N   S        #  S     S      
+     N #      N         N#  N             S S   #                     # N     S  #                   N   S           S     S      
+     N NEEEEEEXEEEEEEEEEXEEEXEEEEEEEEEEEEEXEXEEEEEEEEEEEEEEEEEEEEEEEEEEEXEEEEEXEEEEEEEE#     #      #WWWWS           S     S      
+     N N      N         N  #N #    #      S S              #            N     S       S                  #   #      #S     S      
+     N N#     N  ##   # N   N NEEEEEEEEEEEXEXEEEEEEEEEEEEEEEEEEEEEEEEEEEXEEE# S       S                      NEEEEEEEXEE# #S      
+     N N      N         N   N N#         #S S                   #       N  S# S       S#     #           # # N       S S   S #    
+  # #N N      N   #     N   N N          NXEXEEEEEEEEEEEEEEEEEEEEEEEEEEEXEEXEEXEEEEEEEXEEEEEEEEEEEE#         N       S#S   S      
+     N N      N      #  N   N N        # NS S                           N  S  S     # S           S     #    N       S S   S# # # 
+     N N#     N         N   N N        NEXXEXEEEEEEEEEEEEEEEEEEEEEEEEEEEXEEXEEXEEEEEEEXEEEEEEEEEEEXE#        N   ##  S S   S      
+     N N      N         N   N N        N NS S           #               N  S  S       S           SS         N   ##  S S   S      
+  #  N N   #  N         N   N#N        N NS S#      #   NEEEEEEEEEEEEEEEXEEXEEXEEEEEEEXEEEEEEEE#  SS         N  #    S S   S      
+     N N      N   #     N#  N N        N NS S          #N               N  S  S      #S       S   SS       # N #     S S#  S     #
+     N N      N         N   N N     # #N NS S   #  #   NXEEEEEEEEEE#    N  S  S    #  S       S   SS         N NEEEEEXEXEEEXEEEEEE
+   ##N N      N         N   N N        N NS S   NEEEEEEXXEEEEEEEEEXEEEE#N  S# S       S    # #S   SS         N N     S S   S #    
+     N N   #  N #   #   N   N#N        N NS S   N      NN         S   S N  S# S     # S       S   SS         N N     S S   S      
+     N N   NEEXEEEEEEEEEXEEEXEXEE#     N NS S   N      NN      #  S   S N  SNEXEEEEEEEXEEEEEEEXEEEXXEEEEEEEEEXEXEEE# S S   S      
+     N N  #N  N         N   N N S      N#NS S # N      NN     #NEEXEEEXEXEEXXEXEEEEEEEXEEEEEEEXEEEXXEEEEE##  N N  S  S S  #S      
+     N N   N  N         N   N N S      N NS#S   N ##   NN      N  S#  S N  SN S   #   S       S   SS    S    N N# S #S S   S     #
+ # # N N   N  N         N#  N N S #    N NS S   N  NEEEXXEEEEEEXEEXEEEXEXEEXXEXEEEEEEEXEEEE#  S   SS  # S    N N# S  S S   S      
+     N N   N #N         N   N N S      N NS S   N  N ##NN      N #S#  S N  SN S       S   S   S   SS    S    N N  S  S S   S  #   
+     N N   N #WWWWWWWWWWXWWWXWXWS      N NS S   N  N   NN      N  S   S N  SN S       S   S   S   SS    S    N N  S  S S   S      
+     N N   N      ##    N#  N N #      N NS S   N  N   NN#     N  S   S N  SN S #     S  #S   S   SS    S    N N  S  S S   S      
+     N N   N      NEEEEEXEEEXEXEEEEEEEEXEXXEXEEEXEEXEEEXXEEEEEEXEEXEEEXEXEEXXEXEEEEEEEXEE#S   S#  SS    S   #WWXWWXWWS S   S     #
+ #   N N   N #    N     N   N N        N NS S   N #N#  NN      N  S   S N  SN S       S S S   S   SS    S #    N #S  # S   S      
+# #  N#WWWWXWWWWWWXWWWWWXWWWXWXWWWWWWWWXWXXWS   N  N   NN      N  S   S N  SN S       S S S#  S   SS    S      N  S    S## S     #
+   # N     N      N#    N   N N     #  N#NS #   N  N   NN      N  S # S N  SN S       S S S   S   SS # #S   #  N  S    S   S      
+     N     N      N     N   N N #      N NS     N  N   NN      N  S   S N# SN S       S S S  #S   SS    S      N  S    S   S      
+   # N#    N    # N    #N   N N NEEEEEEXEXXEEE# N# N   NN      N  S   S#WWWXXWXWWWWWWWXWXWXWWWXWWWXXWWWWXWWWWWWXWWS    S   S      
+     N     N    NEXEEEEEXEEEXEXEXEEEEEEXEXXEEXEEXEEXEEEXXEEEEEEXE#S   S  # SN S       S S S   S   SS    S      N  #    S   S      
+     N     N    N N     N   N N N ##   N NS  S  N  N   NN  ##  NS S   S    SN S       S S S   S   SS #  S      N       S   S      
+    #N   # N    N N    #WWWWXWXWXWWWWWWXWXXWWXWWXWWXWWWXXWWWWWWXXWXWWWXWWWWSN S #    #S S S  #S   SS    S      N  #    S   S     #
+     N   ##N    N N         N N N      N NS  S  N  N   NN      NS S   S #  #N#S    #  S S S   S## SS    S      N       S   S      
+    #WWWWWWXWWWWXWXWWWWWWWWWXWXWXWWWWWWXWXXWWS# N  N # NN      NS S   S     N#S   #   S S S   S   SS    S      N #     S   S #    
+ ##     #  N    N N         N N N   #  N NS  #  N  N   NN      NS S   S     N S       S S S   S  #SS  # S      N       S   S      
+           N    N N         N N N      N NS     N  N   NN  #   NS#S#  S     N S       S#S S   S   SS    S     #N     # S   S      
+    #      N    N#WWWWWWWWWWXWXWXWWWWWWXWXXWWWWWXWWXWWWXXWWWWWWXXWS   S #   N S #     S S S   S   SS    S      N       S   S #    
+#          N    N       #   N N N  # # N NS     N  N   NN      NS #   S    #WWXWWWWWWWXWXWXWWWXWWWXXWWWWXWWWWWWXWWWWWWWS   S  #   
+#          N    N    #     #N N N  NEEEXEXXEEEEEXEEXEEEXXEEEEEEXXEEEEEXEEEEEEEXEEE#   S S S   S   SS    S      N       #   S #    
+   #     # N   #N           N N N# N   N NS  #  N  N   NN      NS     S       S  S    S S S  #S   SS    S      N           S      
+           N    N          #N N N  N   N NS  NEEXEEXEE#NN      NS  #  S       S #S    S S S   S   SS    S      N           S#     
+       #   N #  N       #   N N N# N   N NS  N  N  N S NN      NS  NEEXEEEEEEEXEEXEEEEXEXEXEEEXEEEXXEEEEXEEEEEEXEEEEE#     S  #   
+#          N    N           N N N  N  #N NS  N  N  N S NN      NS  N  S      #S  S    S S S   S   SS    S  #   N  # S      S      
+#     #    N    N          #WWXWXWWXWWWXWXXWWXWWXWWXWXWXXWWWWWWXXWWXWWXWWWWWWWS  S   #S S S   S   SS  # S      N    S      S      
+           N    N             N N  N   N NS  N  N  N S NN#    #NS  N  S    #  ## S    S S S   S   SS #  S      N    S      S      
+   #       N    N #           N N  N   N NS  N  N  N#S NN   #  NS  N  S    NEEEEEXEEEEXEXEXEEEXEEEXXEEEEXEEEEEEXEEEEXEEEEEEXEEEE# 
+           N    N           # N N  N # N NS  N  N# N S NN      NS  N  S  # N     S    S S S   S  #SS    S   #  N    S  #   S   S  
+    #      N    N  #          N N  N NEXEXXEEXEEXEEXEXEXXEEEEEEXXEEXEEXEEEEXEEEEEXEEEEXEXEXEEEXEE#SS    S  #   N #  S  NEEEXE# S  
+          #N    N          #  N N  N N N NS  N  N  N S NN      NS  N #S#  #N     S    S S S   S S SS    S      N #  S# N   SS  S  
+           N#   N          NEEXEXEEXEXEXEXXEEXEEXEEXEXEXXEEEEEEXXEEXEEXEEEEXEEEEEXEEEEXEXEXEEEXEXEXXEEEEXEEE# #N    S #N   SS# S# 
+ #         N    N          N  N N #N N N NS  N  N #N S NN      NS  N  S    N#    S    S S S   S S SS    S  S   N    S  N # SS  S  
+           N    N          N  N N  N N N NS  N  N  N#S NN      NS  N  S    N#    S   #S S S   S S SS    S  S  #N    S  N   SS  S# 
+  ###      N    N   #      N  N N  N#N N NS  N  N  N S NN      NS  N  S    N   # S    S S S  #S S SS    S  S # N# # S  N   SS  S  
+  #   #    N    N          N  N N  N N N NS  N# N  N S NN      NS  N  S    N   NEXEEEEXEXEXEEEXEXEXXEEEEXEEXEEEXEE# S #WWWWSS  S  
+          #N    N    #  #  N  N#N  N N N NS  N  N  N S NN      NS  N  S    N # N S  # S S S   S S SS   #S  S   N S  S      #S  S #
+       #   N #  N    #     N #WWXWWXWXWXWXXWWXWWXWWXWXWXXWWWWWWXXWWXWWXWWWWXWWWXWXWWWWXWXWS   S S SS    S  S   N S #S       S #S# 
+#          N    N        # N#   N  N N N NS  N  N  N S NN      NS  N  S    N   N S #  S S #   S S SS  # S  S   N S  S  ##   S  S  
+    #      N    N         #N    N  N N N NS  N  N  N S NN      NS  N  S    N   N S    S S     S S SS  # S  S   N S  S       S  S  
+           N    N      #   N    N  N N N NS  N  N #WWXWXXWWWWWWXXWWXWWXWWWWXWWWXWXWWWWXWXWWWWWXWXWSS    S  S   N S  S       S  S# 
+         # N    N       #  N    N  N N N NS #N  N    S NN    # NS  N  S    N   N S    S#S     S S #S    S  S   N S  S       S  S  
+         # N    N          N    N  N N N NS  N  N    S NN      NS  N #S    N   N S    SNXEEEEEXEXEEXEEEEXEEXEEEXEXEEXE#     S# S  
+           N    N#     #   N    N  N N N#NS  N  N    S NN      NS  N  S    N   N S    SNS     S S  S  # S  S   N S  SS    # S  S #
+           N    N   #      N    N  N N N NS  N  N    S NN      NS  N  S   #WWWWXWXWWWWXXXWWWWWXWXWWXWWWWXWWXWWWXWXWWXXWWWWWWS #S  
+           N##  N          N   #N  N N N NS  N  N  # S NN      NS  N# S        N S    SNS     S S  S    S  S   N S  SS      #  S  
+           N    N        # N    N  N N#N#WXWWXWWXWWWWXWXXWWWWWWXXWWXWWXWWWWWWWWXWXWWWWXXXWWWWWS S  S    S  S   N S #SS      #  S  
+           N#   N     #    N    N  N N N  S  N #WWWWWXWXXWWWWWWXXWWXWWXWWWWWWWWXWXWWWWSNS     ##S  S#   S  S   N S  SS      #  S  
+      #    N    N          N    N  N N N  S  N       S NN #  ##WXWWXWWXWWWWWWWWXWS    #NS #     S  S    S  S   N S  SS         S  
+           N#   N          N    N  N N N  S  N       S NN       S #N  S          # ##  NS #     S  S    S  S   N S  SS    ##   S  
+           N    N   #      N    N  N N N# S  N #     S#WXWWWWWWWXWWXWWXWWWWWWWWWWWWWWWWXXWWWWWWWXWWS    S  S # N S #SS #       S  
+           N    N          N    N  N N N  S  N NEEEEEXEEXEEEEEEEXEEXEEXEEE#    #       NS #     S  #    S  S   N S  SS         S  
+ #         N    N          N    N  N N N  S  N N   # S  N       S  N  S  S             NS       S       S  S   N S  SS         S  
+           N    N      #   N    N  N N N  S  N N   NEXEEXEEEEEEEXEEXEEXEEXEEEEEEEEEEE# NS  #    S       S  S  #WWXWWXXWWWWWWWWWS# 
+   #       N    N  # #     N    N  N N N  S  N N   N S# N       S  N  S  S          S# NS  #  # S   #   S  S   # S  SS         #  
+           N    N          N    N  N N N  S# N N   N S  N#      S  N  S  S          S  NS     NEXEEEEEEEXEEXEEEEEXEEXXEEEE#       
+#          N   #WWWWWWWWWWWXWWWWXWWXWXWXWWXWWXWXWWWXWS  N       S  N  S  S          S  NS     N S       S  S     S  SS   S      # 
+           N               N    N #N#N N  S  N N   N ## N       S  N #S  S  #       S  NS     N#S       S  S     S  SS#  S        
+          #N               N    N  N N N  S  N#WWWWXWWWWXWWWWWWWXWWXWWXWWXWWWWWWWWWWXWWXXWWWWWXWS#      S  S     S# SS   S     #  
+    #      N              #N    N  N N N  S  N   # N   #N       S# N  S  S#         S  NS  #  N #       S  S     S  SS   S        
+           N               N    N  N N N  S  N  #  N    N       S  N  S# S   #      S  NS     N         S  S     S  SS   S        
+      #    N#              N    N  N N#WWWXWWXWWWWWXWWWWXWWWWWWWXWWXWWXWWXWWWWWWWWWWXWWXXWWWWWXWWWWWWWWWXWWXWWWWWXWWSS   S       #
+           N               N    N  N N    S #N     N    N  #    S  N  S  S          S  NS    #N         S  S     S  #S   S        
+   #      #WWWWWWWWWWWWWWWWXWWWWXWWXWXWWWWS# N     N    N  #    S  N  S  S          S  NS     N         S  S#    S#  S   S        
+#               #          N    N  N N    # #WWWWWWXWWWWXWWWWWWWXWWXWWXWWS          S  NS     N        #S  S     S   S   S    #   
+  #        #               N    N #N N      #      N    N#   ###S  N  S  #          S  NS     N         S  S     S   S   S    #   
+            #              N    N #WWXWWWWWWWWWWWWWXWWWWXWWWWWWWXWWXWWS    #        S  NS #   N     #   S  S #   S   S   S        
+   #    #                  N    N    N             N#   N       S  N  #             S #NS     N         S  S    #S   S   S        
+      #                    N   #WWWWWXWWWWWWWWWWWWWXWWWWXWWWWWWWXWWXWWWWWWWWWWWWWWWWXWWXXWWWWWXWWWWWWWWWXWWXWWWWWXWWWS   S        
+   #                       N         N        #    N    N       S  N                S  NS     N    #    S  S   # S  ## # S       #
+                    #      N         N         #   N#  #WWWWWWWWXWWXWWWWWWWWWWWWWWWWXWWXXWWWWWXWWWWWWWWWXWWS     S #     S        
+     #           #         N         N     #       N       #    S  N                S  NS     N       # S# #     S       S       #
+                #       #  N   #     N     NEEEEEEEXEEEEEEEEEEEEXEEXEEEEEEEEEEEEEEEEXEEXXEEEE#N  #      S        S       S        
+           #    #        ##N         N     N    #  N  #     #   S #WWWWWWWWWWWWWWWWWXWWXXWWWXWXWWWWWWWWWS        S       S  #     
+ # #                       N #   #   N  #  N       N            S        #       ## S  NS#  S N     #   #        S ##    S        
+                   #       N         N #   N  #    N            S                   S  NS  #S N        #         S  NEEEEXEEEEE#  
+              # #          N         N     N      #WWWWWWWWWWWWWXWWWWWWWWWWWWWWWWWWWXWWXXWWWXWXWWWWWWWWWWWWWWWWWWS  N   #S    S   
+      #            #       N         N     N           ##       S                   S  NS   S#N                  # #WWWWWS    S   
+                      #    N         N     N        #  NEEEEEEEEXEEEEEEEEEEEEEEEEEEEXEEXXEEEXEXEEEEEEEEEE#               #    S   
+                          #WWWWWWWWWWXWWWWWXWWWWWWWWWWWXWWWWWWWWXWWWWWWWWWWWWWWWWWWWS  NS   S N   #     S ##   #              S   
+                                     N     N       #   N        S #   #             #  NS   S N       # S        # #    #     S   
+   #      #                    #     N     N           N        S NEEEEEEEEEEEEEEEEEEEEXXEEEXEXEEE#     S         #      #    S   
+    #      # #         #  #  #      #WWWWWWXWWWWWWWWWWWXWWWWWWWWXWXWWWWWWWWWWWWWWWWWWWWXS # S N  S      S   #     #           S   
+      #          #            #            N #       # N        S N                    N#   S N  S      S                     S   
+ ## #                         #  #         N   #       N  #     S N                    N    S N  S      S           #         S   
+     #  #                      ##          N#          N        S N  #  #              N    S N  S      S             #       S   
+     #                               #     N          #WWWWWWWWWXWXWWWWWWWWWWWWWWWWWWWWXWWWWS N  S      S                     S   
+ ##    #                   #            #  N                    S N          #         N    ##WWWS      S  #                ##S   
+                    #      ##              N               #   #S N              #     N         ##   # S          #          S   
+                 #                         N #                  S N                # # N      #         S #         #    ##   S   
+      #                             ##     N              #     S N                    N                S                     S  #
+           #        ##   #      #          N#                #  S N                    N                S          #          S   
+      # #                                 #WWWWWWWWWWWWWWWWWWWWWS N                    N              # S #      #        # # S  #
+           #      #    #               #       #                # N                   #WWWWWWWWWWWWWWWWWXWWWWWWWWWWWWWWWWWWWWWS   
+    #      #                            ## #               ## #   N      #         #        #           S                     #   
+ #                            #                                # #WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWS       #     #        #  
+ # #       #       #                                                                     #              #                 ##      
+     #                                       #       #        #              #         #                #   #   #                 
+Count is 5131
+Num Loops is 1784
